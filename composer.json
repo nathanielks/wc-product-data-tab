@@ -1,0 +1,17 @@
+{
+    "name": "nathanielks/wc-product-data-tab",
+    "description": "Tools to make creating WooCommerce Product Data tabs easier.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathaniel Schweinberg",
+            "email": "nathaniel@fightthecurrent.org"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WC_Product_Data_Tab\\": "src"
+        }
+    }
+}
